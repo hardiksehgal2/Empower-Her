@@ -44,6 +44,11 @@ dependencies:
   fluttertoast: ^8.2.4
   firebase_core: ^2.24.2
   firebase_auth: ^4.16.0
+  cloud_firestore: ^4.14.0
+  shared_preferences: ^2.2.2
+  permission_handler: ^10.4.5
+  contacts_service: ^0.6.3
+  sqflite: ^2.3.2
 
 dev_dependencies:
   flutter_test:

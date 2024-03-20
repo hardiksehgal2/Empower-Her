@@ -1,4 +1,8 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          packages="com.example.women_saftey">
+    <uses-permission android:name="android.permission.READ_CONTACTs"/>
+    <uses-permission android:name="android.permission.WRITE_CONTACTs"/>
+
     <application
             android:label="women_saftey"
             android:name="${applicationName}"
